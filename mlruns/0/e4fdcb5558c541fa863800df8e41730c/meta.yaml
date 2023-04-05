@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/MLFLOW/MLFlow-Task/mlruns/0/e4fdcb5558c541fa863800df8e41730c/artifacts
+end_time: 1680669962801
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e4fdcb5558c541fa863800df8e41730c
+run_name: crawling-tern-248
+run_uuid: e4fdcb5558c541fa863800df8e41730c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1680669959305
+status: 3
+tags: []
+user_id: LENOVO
