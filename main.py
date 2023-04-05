@@ -84,7 +84,9 @@ def rumMlFlow():
 
 def uploadToGithub():
     # push changes to github
-    
+    os.system("git add .")
+    os.system("git commit -m 'update'")
+    os.system("git push origin main")
         
 
 if __name__ == "__main__":
